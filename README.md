@@ -5,7 +5,7 @@ An Udacity Frontend Project
 
 ## About Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons.
-![snippet](img/capture.png)
+![snippet](img/Capture.PNG)
 
 ## Challenge
 You should aim to match cards in less time with less moves.
