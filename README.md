@@ -32,7 +32,7 @@ I manipulated the DOM with Vanilla JS, altered part of the HTML and also styled 
 * Bootstrap
 * Javascript 4.6.1
 * jQuery 1.8.3
--> Fonts and Icons from
+*-> Fonts and Icons from
 *  Google fonts
 * Font-awesome Icons
 
